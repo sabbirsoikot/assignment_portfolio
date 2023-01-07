@@ -23,6 +23,7 @@ main, .footer{
     background-repeat: no-repeat;
     background-position: left;
     height: 700px;
+    background-size: cover;
 }
 .header-info{
 
